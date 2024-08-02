@@ -1,9 +1,10 @@
 # Applicant Tracking System (ATS) using GenAI with Gemini Models
-Overview
-This project is an Applicant Tracking System (ATS) powered by cutting-edge Generative AI technology, utilizing Gemini models. The system is designed to streamline the recruitment process, making it more efficient and data-driven. By leveraging the capabilities of GenAI, the ATS can automatically parse resumes, rank candidates based on qualifications, and provide insightful analytics to help hiring teams make informed decisions.
+# Overview
 
-Features
-Automated Resume Parsing: Extracts key information from resumes, including skills, experience, and education, and stores it in a structured format.
+  This project is an Applicant Tracking System (ATS) powered by cutting-edge Generative AI technology, utilizing Gemini models. The system is designed to streamline the recruitment process, making it more efficient and data-driven. By leveraging the capabilities of GenAI, the ATS can automatically parse resumes, rank candidates based on qualifications, and provide insightful analytics to help hiring teams make informed decisions.
+
+# Features
+    Automated Resume Parsing: Extracts key information from resumes, including skills, experience, and education, and stores it in a structured format.
 Candidate Ranking: Uses Gemini models to rank candidates based on their suitability for the role, taking into account various factors such as job description, experience, and skillset.
 Predictive Analytics: Provides insights into candidate fit and likelihood of success in the role using AI-driven predictive models.
 Customizable Workflow: Allows for the customization of the recruitment workflow to match the unique needs of your organization.
