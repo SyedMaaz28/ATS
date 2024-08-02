@@ -6,8 +6,11 @@
 # Features
   Automated Resume Parsing: Extracts key information from resumes, including skills, experience, and education, and stores it in a     
                             structured format.
+                            
   Predictive Analytics: Provides insights into candidate fit and likelihood of success in the role using AI-driven predictive models.
+  
   Customizable Workflow: Allows for the customization of the recruitment workflow to match the unique needs of your organization.
+  
   User-friendly Interface: Intuitive interface designed to enhance user experience, making it easy for HR teams to navigate and utilize the                             system.
   
 # Technology Stack
