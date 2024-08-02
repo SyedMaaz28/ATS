@@ -1,4 +1,4 @@
-# Applicant Tracking System (ATS) using GenAI with Gemini Models
+# Applicant Tracking System (ATS) using GenAI with Gemini Models  📜
 
 # Overview
 
